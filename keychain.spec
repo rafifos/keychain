@@ -1,5 +1,5 @@
 Name:      keychain
-Version:   2.8.5
+Version:   2.9.0
 Release:   1
 Summary:   agent manager for OpenSSH, ssh.com, Sun SSH, and GnuPG
 Packager:  Daniel Robbins <drobbins@funtoo.org>
